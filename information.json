@@ -1,7 +1,9 @@
 {
     "first_name":"John",
     "last_name":"Smith",
+    "address":"address",
     "email":"JohnSmith@gmail.com",
+    "resume_path":"/blank.pdf",
     "phone":"000-000-0000",
     "linkedin":"linkedIn",
     "github":"github",
