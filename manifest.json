@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Autoform Filler",
+    "description": "fill in fields of applications",
+    "homepage_url": "https://www.google.com/",
+    "version": "1.0",
+    "action": {
+        "default_popup": "index.html"
+    },
+    "permissions": [
+        "activeTab",
+        "scripting",
+        "tabs"
+    ] 
+}
